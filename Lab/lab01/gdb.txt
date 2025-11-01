@@ -1,0 +1,9 @@
+1.set args
+2.b/break + line
+3.n/s n over func s into func
+4.s
+5.c
+6.p
+7.display
+8.info
+9.q

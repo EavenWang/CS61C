@@ -1,0 +1,4 @@
+1.find
+2.ps
+3.kill -9 pid
+4.diff file1 file2
